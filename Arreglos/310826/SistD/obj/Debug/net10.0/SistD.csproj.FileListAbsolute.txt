@@ -1,0 +1,14 @@
+C:\Users\JC15RC\Documents\Estructura de Datos\Arreglos\SistD\bin\Debug\net10.0\SistD.exe
+C:\Users\JC15RC\Documents\Estructura de Datos\Arreglos\SistD\bin\Debug\net10.0\SistD.deps.json
+C:\Users\JC15RC\Documents\Estructura de Datos\Arreglos\SistD\bin\Debug\net10.0\SistD.runtimeconfig.json
+C:\Users\JC15RC\Documents\Estructura de Datos\Arreglos\SistD\bin\Debug\net10.0\SistD.dll
+C:\Users\JC15RC\Documents\Estructura de Datos\Arreglos\SistD\bin\Debug\net10.0\SistD.pdb
+C:\Users\JC15RC\Documents\Estructura de Datos\Arreglos\SistD\obj\Debug\net10.0\SistD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JC15RC\Documents\Estructura de Datos\Arreglos\SistD\obj\Debug\net10.0\SistD.AssemblyInfoInputs.cache
+C:\Users\JC15RC\Documents\Estructura de Datos\Arreglos\SistD\obj\Debug\net10.0\SistD.AssemblyInfo.cs
+C:\Users\JC15RC\Documents\Estructura de Datos\Arreglos\SistD\obj\Debug\net10.0\SistD.csproj.CoreCompileInputs.cache
+C:\Users\JC15RC\Documents\Estructura de Datos\Arreglos\SistD\obj\Debug\net10.0\SistD.dll
+C:\Users\JC15RC\Documents\Estructura de Datos\Arreglos\SistD\obj\Debug\net10.0\refint\SistD.dll
+C:\Users\JC15RC\Documents\Estructura de Datos\Arreglos\SistD\obj\Debug\net10.0\SistD.pdb
+C:\Users\JC15RC\Documents\Estructura de Datos\Arreglos\SistD\obj\Debug\net10.0\SistD.genruntimeconfig.cache
+C:\Users\JC15RC\Documents\Estructura de Datos\Arreglos\SistD\obj\Debug\net10.0\ref\SistD.dll
