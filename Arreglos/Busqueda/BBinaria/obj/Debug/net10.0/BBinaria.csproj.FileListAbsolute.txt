@@ -1,0 +1,15 @@
+c:\Users\JC15RC\Documents\GitHub\UAS_Estructura_de_Datos-201\Arreglos\Busqueda\BBinaria\bin\Debug\net10.0\BBinaria.exe
+c:\Users\JC15RC\Documents\GitHub\UAS_Estructura_de_Datos-201\Arreglos\Busqueda\BBinaria\bin\Debug\net10.0\BBinaria.deps.json
+c:\Users\JC15RC\Documents\GitHub\UAS_Estructura_de_Datos-201\Arreglos\Busqueda\BBinaria\bin\Debug\net10.0\BBinaria.runtimeconfig.json
+c:\Users\JC15RC\Documents\GitHub\UAS_Estructura_de_Datos-201\Arreglos\Busqueda\BBinaria\bin\Debug\net10.0\BBinaria.dll
+c:\Users\JC15RC\Documents\GitHub\UAS_Estructura_de_Datos-201\Arreglos\Busqueda\BBinaria\bin\Debug\net10.0\BBinaria.pdb
+c:\Users\JC15RC\Documents\GitHub\UAS_Estructura_de_Datos-201\Arreglos\Busqueda\BBinaria\obj\Debug\net10.0\BBinaria.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\JC15RC\Documents\GitHub\UAS_Estructura_de_Datos-201\Arreglos\Busqueda\BBinaria\obj\Debug\net10.0\BBinaria.AssemblyInfoInputs.cache
+c:\Users\JC15RC\Documents\GitHub\UAS_Estructura_de_Datos-201\Arreglos\Busqueda\BBinaria\obj\Debug\net10.0\BBinaria.AssemblyInfo.cs
+c:\Users\JC15RC\Documents\GitHub\UAS_Estructura_de_Datos-201\Arreglos\Busqueda\BBinaria\obj\Debug\net10.0\BBinaria.csproj.CoreCompileInputs.cache
+c:\Users\JC15RC\Documents\GitHub\UAS_Estructura_de_Datos-201\Arreglos\Busqueda\BBinaria\obj\Debug\net10.0\BBinaria.sourcelink.json
+c:\Users\JC15RC\Documents\GitHub\UAS_Estructura_de_Datos-201\Arreglos\Busqueda\BBinaria\obj\Debug\net10.0\BBinaria.dll
+c:\Users\JC15RC\Documents\GitHub\UAS_Estructura_de_Datos-201\Arreglos\Busqueda\BBinaria\obj\Debug\net10.0\refint\BBinaria.dll
+c:\Users\JC15RC\Documents\GitHub\UAS_Estructura_de_Datos-201\Arreglos\Busqueda\BBinaria\obj\Debug\net10.0\BBinaria.pdb
+c:\Users\JC15RC\Documents\GitHub\UAS_Estructura_de_Datos-201\Arreglos\Busqueda\BBinaria\obj\Debug\net10.0\BBinaria.genruntimeconfig.cache
+c:\Users\JC15RC\Documents\GitHub\UAS_Estructura_de_Datos-201\Arreglos\Busqueda\BBinaria\obj\Debug\net10.0\ref\BBinaria.dll

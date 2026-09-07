@@ -1,0 +1,8 @@
+Agregar todos los archivos
+git add .
+
+Mensaje de commit
+git commit -m ""
+
+Subir archivos
+git push origin main

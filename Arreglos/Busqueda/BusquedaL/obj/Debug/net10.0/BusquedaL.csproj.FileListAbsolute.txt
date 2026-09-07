@@ -1,0 +1,15 @@
+c:\Users\JC15RC\Documents\GitHub\UAS_Estructura_de_Datos-201\Arreglos\Busqueda\BusquedaL\bin\Debug\net10.0\BusquedaL.exe
+c:\Users\JC15RC\Documents\GitHub\UAS_Estructura_de_Datos-201\Arreglos\Busqueda\BusquedaL\bin\Debug\net10.0\BusquedaL.deps.json
+c:\Users\JC15RC\Documents\GitHub\UAS_Estructura_de_Datos-201\Arreglos\Busqueda\BusquedaL\bin\Debug\net10.0\BusquedaL.runtimeconfig.json
+c:\Users\JC15RC\Documents\GitHub\UAS_Estructura_de_Datos-201\Arreglos\Busqueda\BusquedaL\bin\Debug\net10.0\BusquedaL.dll
+c:\Users\JC15RC\Documents\GitHub\UAS_Estructura_de_Datos-201\Arreglos\Busqueda\BusquedaL\bin\Debug\net10.0\BusquedaL.pdb
+c:\Users\JC15RC\Documents\GitHub\UAS_Estructura_de_Datos-201\Arreglos\Busqueda\BusquedaL\obj\Debug\net10.0\BusquedaL.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\JC15RC\Documents\GitHub\UAS_Estructura_de_Datos-201\Arreglos\Busqueda\BusquedaL\obj\Debug\net10.0\BusquedaL.AssemblyInfoInputs.cache
+c:\Users\JC15RC\Documents\GitHub\UAS_Estructura_de_Datos-201\Arreglos\Busqueda\BusquedaL\obj\Debug\net10.0\BusquedaL.AssemblyInfo.cs
+c:\Users\JC15RC\Documents\GitHub\UAS_Estructura_de_Datos-201\Arreglos\Busqueda\BusquedaL\obj\Debug\net10.0\BusquedaL.csproj.CoreCompileInputs.cache
+c:\Users\JC15RC\Documents\GitHub\UAS_Estructura_de_Datos-201\Arreglos\Busqueda\BusquedaL\obj\Debug\net10.0\BusquedaL.sourcelink.json
+c:\Users\JC15RC\Documents\GitHub\UAS_Estructura_de_Datos-201\Arreglos\Busqueda\BusquedaL\obj\Debug\net10.0\BusquedaL.dll
+c:\Users\JC15RC\Documents\GitHub\UAS_Estructura_de_Datos-201\Arreglos\Busqueda\BusquedaL\obj\Debug\net10.0\refint\BusquedaL.dll
+c:\Users\JC15RC\Documents\GitHub\UAS_Estructura_de_Datos-201\Arreglos\Busqueda\BusquedaL\obj\Debug\net10.0\BusquedaL.pdb
+c:\Users\JC15RC\Documents\GitHub\UAS_Estructura_de_Datos-201\Arreglos\Busqueda\BusquedaL\obj\Debug\net10.0\BusquedaL.genruntimeconfig.cache
+c:\Users\JC15RC\Documents\GitHub\UAS_Estructura_de_Datos-201\Arreglos\Busqueda\BusquedaL\obj\Debug\net10.0\ref\BusquedaL.dll

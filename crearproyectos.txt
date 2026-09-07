@@ -1,0 +1,5 @@
+#Para crear la Plantilla Primero hacer cd a la carpeta, luego
+dotnet new console --force
+
+#Ejecutar
+dotnet run
