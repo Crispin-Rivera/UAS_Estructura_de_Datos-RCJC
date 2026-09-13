@@ -1,0 +1,15 @@
+c:\Users\JC15RC\Documents\GitHub\UAS_Estructura_de_Datos-201\Algoritmos de Ordenamiento\Ordenamiento Burbuja\BubleSort\bin\Debug\net10.0\Ordenamiento Burbuja.exe
+c:\Users\JC15RC\Documents\GitHub\UAS_Estructura_de_Datos-201\Algoritmos de Ordenamiento\Ordenamiento Burbuja\BubleSort\bin\Debug\net10.0\Ordenamiento Burbuja.deps.json
+c:\Users\JC15RC\Documents\GitHub\UAS_Estructura_de_Datos-201\Algoritmos de Ordenamiento\Ordenamiento Burbuja\BubleSort\bin\Debug\net10.0\Ordenamiento Burbuja.runtimeconfig.json
+c:\Users\JC15RC\Documents\GitHub\UAS_Estructura_de_Datos-201\Algoritmos de Ordenamiento\Ordenamiento Burbuja\BubleSort\bin\Debug\net10.0\Ordenamiento Burbuja.dll
+c:\Users\JC15RC\Documents\GitHub\UAS_Estructura_de_Datos-201\Algoritmos de Ordenamiento\Ordenamiento Burbuja\BubleSort\bin\Debug\net10.0\Ordenamiento Burbuja.pdb
+c:\Users\JC15RC\Documents\GitHub\UAS_Estructura_de_Datos-201\Algoritmos de Ordenamiento\Ordenamiento Burbuja\BubleSort\obj\Debug\net10.0\Ordenamiento Burbuja.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\JC15RC\Documents\GitHub\UAS_Estructura_de_Datos-201\Algoritmos de Ordenamiento\Ordenamiento Burbuja\BubleSort\obj\Debug\net10.0\Ordenamiento Burbuja.AssemblyInfoInputs.cache
+c:\Users\JC15RC\Documents\GitHub\UAS_Estructura_de_Datos-201\Algoritmos de Ordenamiento\Ordenamiento Burbuja\BubleSort\obj\Debug\net10.0\Ordenamiento Burbuja.AssemblyInfo.cs
+c:\Users\JC15RC\Documents\GitHub\UAS_Estructura_de_Datos-201\Algoritmos de Ordenamiento\Ordenamiento Burbuja\BubleSort\obj\Debug\net10.0\Ordenamiento Burbuja.csproj.CoreCompileInputs.cache
+c:\Users\JC15RC\Documents\GitHub\UAS_Estructura_de_Datos-201\Algoritmos de Ordenamiento\Ordenamiento Burbuja\BubleSort\obj\Debug\net10.0\Ordenamiento Burbuja.sourcelink.json
+c:\Users\JC15RC\Documents\GitHub\UAS_Estructura_de_Datos-201\Algoritmos de Ordenamiento\Ordenamiento Burbuja\BubleSort\obj\Debug\net10.0\Ordenamiento Burbuja.dll
+c:\Users\JC15RC\Documents\GitHub\UAS_Estructura_de_Datos-201\Algoritmos de Ordenamiento\Ordenamiento Burbuja\BubleSort\obj\Debug\net10.0\refint\Ordenamiento Burbuja.dll
+c:\Users\JC15RC\Documents\GitHub\UAS_Estructura_de_Datos-201\Algoritmos de Ordenamiento\Ordenamiento Burbuja\BubleSort\obj\Debug\net10.0\Ordenamiento Burbuja.pdb
+c:\Users\JC15RC\Documents\GitHub\UAS_Estructura_de_Datos-201\Algoritmos de Ordenamiento\Ordenamiento Burbuja\BubleSort\obj\Debug\net10.0\Ordenamiento Burbuja.genruntimeconfig.cache
+c:\Users\JC15RC\Documents\GitHub\UAS_Estructura_de_Datos-201\Algoritmos de Ordenamiento\Ordenamiento Burbuja\BubleSort\obj\Debug\net10.0\ref\Ordenamiento Burbuja.dll
