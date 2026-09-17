@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JC15RC\\Documents\\GitHub\\UAS_Estructura_de_Datos-201\\Arreglos\\RecorridoArraysMatrices\\RecorridoI\\RecorridoI.csproj": {}
+    "c:\\Users\\JC15RC\\Documents\\UAS-FIM-RCJC\\3er Semestre\\UAS_Estructura_de_Datos-201\\Arreglos\\RecorridoArraysMatrices\\RecorridoI\\RecorridoI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JC15RC\\Documents\\GitHub\\UAS_Estructura_de_Datos-201\\Arreglos\\RecorridoArraysMatrices\\RecorridoI\\RecorridoI.csproj": {
+    "c:\\Users\\JC15RC\\Documents\\UAS-FIM-RCJC\\3er Semestre\\UAS_Estructura_de_Datos-201\\Arreglos\\RecorridoArraysMatrices\\RecorridoI\\RecorridoI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JC15RC\\Documents\\GitHub\\UAS_Estructura_de_Datos-201\\Arreglos\\RecorridoArraysMatrices\\RecorridoI\\RecorridoI.csproj",
+        "projectUniqueName": "c:\\Users\\JC15RC\\Documents\\UAS-FIM-RCJC\\3er Semestre\\UAS_Estructura_de_Datos-201\\Arreglos\\RecorridoArraysMatrices\\RecorridoI\\RecorridoI.csproj",
         "projectName": "RecorridoI",
-        "projectPath": "C:\\Users\\JC15RC\\Documents\\GitHub\\UAS_Estructura_de_Datos-201\\Arreglos\\RecorridoArraysMatrices\\RecorridoI\\RecorridoI.csproj",
+        "projectPath": "c:\\Users\\JC15RC\\Documents\\UAS-FIM-RCJC\\3er Semestre\\UAS_Estructura_de_Datos-201\\Arreglos\\RecorridoArraysMatrices\\RecorridoI\\RecorridoI.csproj",
         "packagesPath": "C:\\Users\\JC15RC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JC15RC\\Documents\\GitHub\\UAS_Estructura_de_Datos-201\\Arreglos\\RecorridoArraysMatrices\\RecorridoI\\obj\\",
+        "outputPath": "c:\\Users\\JC15RC\\Documents\\UAS-FIM-RCJC\\3er Semestre\\UAS_Estructura_de_Datos-201\\Arreglos\\RecorridoArraysMatrices\\RecorridoI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -45,7 +45,7 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.300"
+        "SdkAnalysisLevel": "10.0.400"
       },
       "frameworks": {
         "net10.0": {
@@ -67,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

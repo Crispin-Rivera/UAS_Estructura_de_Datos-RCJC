@@ -1,0 +1,15 @@
+C:\Users\JC15RC\Documents\UAS-FIM-RCJC\3er Semestre\UAS_Estructura_de_Datos-201\Algoritmos de Ordenamiento\Ordenamiento de Seleccion\SelectionSort\obj\Debug\net10.0\SelectionSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JC15RC\Documents\UAS-FIM-RCJC\3er Semestre\UAS_Estructura_de_Datos-201\Algoritmos de Ordenamiento\Ordenamiento de Seleccion\SelectionSort\obj\Debug\net10.0\SelectionSort.AssemblyInfoInputs.cache
+C:\Users\JC15RC\Documents\UAS-FIM-RCJC\3er Semestre\UAS_Estructura_de_Datos-201\Algoritmos de Ordenamiento\Ordenamiento de Seleccion\SelectionSort\obj\Debug\net10.0\SelectionSort.AssemblyInfo.cs
+C:\Users\JC15RC\Documents\UAS-FIM-RCJC\3er Semestre\UAS_Estructura_de_Datos-201\Algoritmos de Ordenamiento\Ordenamiento de Seleccion\SelectionSort\obj\Debug\net10.0\SelectionSort.csproj.CoreCompileInputs.cache
+C:\Users\JC15RC\Documents\UAS-FIM-RCJC\3er Semestre\UAS_Estructura_de_Datos-201\Algoritmos de Ordenamiento\Ordenamiento de Seleccion\SelectionSort\obj\Debug\net10.0\SelectionSort.sourcelink.json
+C:\Users\JC15RC\Documents\UAS-FIM-RCJC\3er Semestre\UAS_Estructura_de_Datos-201\Algoritmos de Ordenamiento\Ordenamiento de Seleccion\SelectionSort\bin\Debug\net10.0\SelectionSort.exe
+C:\Users\JC15RC\Documents\UAS-FIM-RCJC\3er Semestre\UAS_Estructura_de_Datos-201\Algoritmos de Ordenamiento\Ordenamiento de Seleccion\SelectionSort\bin\Debug\net10.0\SelectionSort.deps.json
+C:\Users\JC15RC\Documents\UAS-FIM-RCJC\3er Semestre\UAS_Estructura_de_Datos-201\Algoritmos de Ordenamiento\Ordenamiento de Seleccion\SelectionSort\bin\Debug\net10.0\SelectionSort.runtimeconfig.json
+C:\Users\JC15RC\Documents\UAS-FIM-RCJC\3er Semestre\UAS_Estructura_de_Datos-201\Algoritmos de Ordenamiento\Ordenamiento de Seleccion\SelectionSort\bin\Debug\net10.0\SelectionSort.dll
+C:\Users\JC15RC\Documents\UAS-FIM-RCJC\3er Semestre\UAS_Estructura_de_Datos-201\Algoritmos de Ordenamiento\Ordenamiento de Seleccion\SelectionSort\bin\Debug\net10.0\SelectionSort.pdb
+C:\Users\JC15RC\Documents\UAS-FIM-RCJC\3er Semestre\UAS_Estructura_de_Datos-201\Algoritmos de Ordenamiento\Ordenamiento de Seleccion\SelectionSort\obj\Debug\net10.0\SelectionSort.dll
+C:\Users\JC15RC\Documents\UAS-FIM-RCJC\3er Semestre\UAS_Estructura_de_Datos-201\Algoritmos de Ordenamiento\Ordenamiento de Seleccion\SelectionSort\obj\Debug\net10.0\refint\SelectionSort.dll
+C:\Users\JC15RC\Documents\UAS-FIM-RCJC\3er Semestre\UAS_Estructura_de_Datos-201\Algoritmos de Ordenamiento\Ordenamiento de Seleccion\SelectionSort\obj\Debug\net10.0\SelectionSort.pdb
+C:\Users\JC15RC\Documents\UAS-FIM-RCJC\3er Semestre\UAS_Estructura_de_Datos-201\Algoritmos de Ordenamiento\Ordenamiento de Seleccion\SelectionSort\obj\Debug\net10.0\SelectionSort.genruntimeconfig.cache
+C:\Users\JC15RC\Documents\UAS-FIM-RCJC\3er Semestre\UAS_Estructura_de_Datos-201\Algoritmos de Ordenamiento\Ordenamiento de Seleccion\SelectionSort\obj\Debug\net10.0\ref\SelectionSort.dll

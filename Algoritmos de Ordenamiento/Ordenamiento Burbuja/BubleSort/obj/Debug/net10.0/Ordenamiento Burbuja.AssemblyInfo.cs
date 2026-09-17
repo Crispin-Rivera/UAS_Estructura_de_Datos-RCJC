@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ordenamiento Burbuja")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f45ae1e7622ae4a5e948692a6256b885a7eae92f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ordenamiento Burbuja")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ordenamiento Burbuja")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+C:\Users\JC15RC\Documents\UAS-FIM-RCJC\3er Semestre\UAS_Estructura_de_Datos-201\Algoritmos de Ordenamiento\Ordenamiento Rapido\QuickSort\obj\Debug\net10.0\QuickSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JC15RC\Documents\UAS-FIM-RCJC\3er Semestre\UAS_Estructura_de_Datos-201\Algoritmos de Ordenamiento\Ordenamiento Rapido\QuickSort\obj\Debug\net10.0\QuickSort.AssemblyInfoInputs.cache
+C:\Users\JC15RC\Documents\UAS-FIM-RCJC\3er Semestre\UAS_Estructura_de_Datos-201\Algoritmos de Ordenamiento\Ordenamiento Rapido\QuickSort\obj\Debug\net10.0\QuickSort.AssemblyInfo.cs
+C:\Users\JC15RC\Documents\UAS-FIM-RCJC\3er Semestre\UAS_Estructura_de_Datos-201\Algoritmos de Ordenamiento\Ordenamiento Rapido\QuickSort\obj\Debug\net10.0\QuickSort.csproj.CoreCompileInputs.cache
+C:\Users\JC15RC\Documents\UAS-FIM-RCJC\3er Semestre\UAS_Estructura_de_Datos-201\Algoritmos de Ordenamiento\Ordenamiento Rapido\QuickSort\obj\Debug\net10.0\QuickSort.sourcelink.json
+C:\Users\JC15RC\Documents\UAS-FIM-RCJC\3er Semestre\UAS_Estructura_de_Datos-201\Algoritmos de Ordenamiento\Ordenamiento Rapido\QuickSort\bin\Debug\net10.0\QuickSort.exe
+C:\Users\JC15RC\Documents\UAS-FIM-RCJC\3er Semestre\UAS_Estructura_de_Datos-201\Algoritmos de Ordenamiento\Ordenamiento Rapido\QuickSort\bin\Debug\net10.0\QuickSort.deps.json
+C:\Users\JC15RC\Documents\UAS-FIM-RCJC\3er Semestre\UAS_Estructura_de_Datos-201\Algoritmos de Ordenamiento\Ordenamiento Rapido\QuickSort\bin\Debug\net10.0\QuickSort.runtimeconfig.json
+C:\Users\JC15RC\Documents\UAS-FIM-RCJC\3er Semestre\UAS_Estructura_de_Datos-201\Algoritmos de Ordenamiento\Ordenamiento Rapido\QuickSort\bin\Debug\net10.0\QuickSort.dll
+C:\Users\JC15RC\Documents\UAS-FIM-RCJC\3er Semestre\UAS_Estructura_de_Datos-201\Algoritmos de Ordenamiento\Ordenamiento Rapido\QuickSort\bin\Debug\net10.0\QuickSort.pdb
+C:\Users\JC15RC\Documents\UAS-FIM-RCJC\3er Semestre\UAS_Estructura_de_Datos-201\Algoritmos de Ordenamiento\Ordenamiento Rapido\QuickSort\obj\Debug\net10.0\QuickSort.dll
+C:\Users\JC15RC\Documents\UAS-FIM-RCJC\3er Semestre\UAS_Estructura_de_Datos-201\Algoritmos de Ordenamiento\Ordenamiento Rapido\QuickSort\obj\Debug\net10.0\refint\QuickSort.dll
+C:\Users\JC15RC\Documents\UAS-FIM-RCJC\3er Semestre\UAS_Estructura_de_Datos-201\Algoritmos de Ordenamiento\Ordenamiento Rapido\QuickSort\obj\Debug\net10.0\QuickSort.pdb
+C:\Users\JC15RC\Documents\UAS-FIM-RCJC\3er Semestre\UAS_Estructura_de_Datos-201\Algoritmos de Ordenamiento\Ordenamiento Rapido\QuickSort\obj\Debug\net10.0\QuickSort.genruntimeconfig.cache
+C:\Users\JC15RC\Documents\UAS-FIM-RCJC\3er Semestre\UAS_Estructura_de_Datos-201\Algoritmos de Ordenamiento\Ordenamiento Rapido\QuickSort\obj\Debug\net10.0\ref\QuickSort.dll
